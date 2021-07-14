@@ -1,0 +1,31 @@
+{
+  "name": "eternity",
+  "displayName": "Eternity",
+  "description": "my custom theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Meadows",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Meadows.json"
+      },
+      {
+        "label": "Space Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Gray.json"
+      },
+      {
+        "label": "New",
+        "uiTheme": "vs-dark",
+        "path": "./themes/New1.json"
+      }
+    ]
+  }
+}
