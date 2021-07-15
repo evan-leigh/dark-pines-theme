@@ -12,14 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Meadows",
+        "label": "Floaroma",
         "uiTheme": "vs-dark",
-        "path": "./themes/Meadows.json"
+        "path": "./themes/floaroma.json"
       },
       {
         "label": "Space Gray",
         "uiTheme": "vs-dark",
-        "path": "./themes/Space Gray.json"
+        "path": "./themes/space-gray.json"
       },
       {
         "label": "New",

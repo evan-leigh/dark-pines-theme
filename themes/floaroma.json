@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Meadows",
-  "include": "./main.json",
+  "name": "Floaroma",
+  "include": "./workbench.json",
 
   // PANTONE 13-0614 TPG
   // #D5CD94 Golden Mist
@@ -15,6 +15,7 @@
   // #98ADAE33 Morning Mist 25% Opacity
   // #98ADAE24 Morning Mist 14% Opacity
   // #98ADAE17 Morning Mist 7% Opacity
+  // #98ADAE0D Morning Mist 5% Opacity
 
   // PANTONE 15-1512 TCX
   // #B09FCA Mystic Violet +3 Lightness
@@ -83,6 +84,18 @@
       }
     },
     {
+      "scope": "support.type",
+      "settings": {
+        "foreground": "#D5CD94"
+      }
+    },
+    {
+      "scope": "meta.function-call.generic",
+      "settings": {
+        "foreground": "#D5CD94"
+      }
+    },
+    {
       "scope": "variable.other.constant",
       "settings": {
         "foreground": "#D5CD94"
@@ -95,7 +108,7 @@
       }
     },
     {
-      "scope": "support.type.property-name",
+      "scope": "markup.heading",
       "settings": {
         "foreground": "#D5CD94"
       }
@@ -143,7 +156,7 @@
       }
     },
     {
-      "scope": "comment.line",
+      "scope": "comment.line, comment.block",
       "settings": {
         "foreground": "#7E868A"
       }
@@ -227,6 +240,12 @@
       }
     },
     {
+      "scope": "support.type.property-name",
+      "settings": {
+        "foreground": "#CCCCC7"
+      }
+    },
+    {
       "scope": "string",
       "settings": {
         "foreground": "#8DBB96"
@@ -242,10 +261,13 @@
     "editor.rangeHighlightBackground": "#2C303A",
     "editor.findMatchHighlightBackground": "#98ADAE17",
     "editor.wordHighlightBackground": "#98ADAE17",
-    "editor.wordHighlightStrongBackground": "#98ADAE17",
+    "editor.wordHighlightStrongBackground": "#98ADAE0D",
     "editor.hoverHighlightBackground": "#98ADAE17",
     "editor.selectionBackground": "#98ADAE17",
     "editorWhitespace.foreground": "#98ADAE33",
+
+    "editorError.foreground": "#DB8097",
+    "editorWarning.foreground": "#D5CD94",
 
     // Sidebar
     "sideBar.background": "#23262E",
@@ -290,6 +312,7 @@
     "statusBarItem.remoteForeground": "#23262E",
     "statusBar.background": "#23262E",
     "statusBar.foreground": "#CCCCC7",
+    "statusBar.noFolderBackground": "#23262E",
 
     // Widgets
     "editorWidget.background": "#23262E",
@@ -302,7 +325,7 @@
     "debugToolBar.background": "#23262E",
 
     // Breadcrumps
-    "breadcrumb.background": "#23262E",
+    "breadcrumb.background": "#2C303A",
 
     // Buttons
     "button.background": "#B09FCA",
@@ -343,7 +366,6 @@
     "gitDecoration.untrackedResourceForeground": "#8DBB96",
 
     "editorOverviewRuler.warningForeground": "#D5CD94",
-    "editorWarning.foreground": "#C4B969",
 
     // Terminal
     "terminal.ansiRed": "#DB8097",
