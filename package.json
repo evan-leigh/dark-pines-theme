@@ -1,10 +1,15 @@
 {
-  "name": "eternity",
-  "displayName": "Eternity",
-  "description": "my custom theme",
+  "name": "dark-pines",
+  "displayName": "Dark Pines",
+  "description": "Dark theme based off Base 16 Ocean color scheme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.58.0"
+  },
+  "icon": "pines.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evan-leigh/dark-pines-theme"
   },
   "categories": [
     "Themes"
@@ -12,19 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Floaroma",
+        "label": "Dark Pines",
         "uiTheme": "vs-dark",
-        "path": "./themes/floaroma.json"
-      },
-      {
-        "label": "Space Gray",
-        "uiTheme": "vs-dark",
-        "path": "./themes/space-gray.json"
-      },
-      {
-        "label": "New",
-        "uiTheme": "vs-dark",
-        "path": "./themes/New1.json"
+        "path": "./themes/dark-pines.json"
       }
     ]
   }
