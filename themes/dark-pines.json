@@ -4,7 +4,7 @@
   "include": "./workbench.json",
 
   // Yellow Colors - PANTONE P 10-11 U
-  // ====================================================
+  // ===================================================
   // #FDD072 +34 Saturation
   // #E6CB92
   // #E6CB9233 24% Opactity
@@ -13,7 +13,7 @@
   //
 
   // Green Colors - PANTONE P 146-1 C
-  // ====================================================
+  // ===================================================
   // #A2C1891F +12 Saturation 12% Opacity
   // #A3B694
   //
@@ -21,7 +21,7 @@
   //
 
   // Blue Colors - PANTONE 2163 U
-  // ====================================================
+  // ===================================================
   // #98A1A9
   // #879CB0 +12 Saturation -2 Lightness
   //
@@ -29,7 +29,7 @@
   //
 
   // Red Colors - PANTONE 4069 UP
-  // ====================================================
+  // ===================================================
   // #B26C72
   // #AF5059 +6 Saturation -6 Lightness
   // #B26C721F +6 Saturation -6 Lightness 12% Opactiy
@@ -38,7 +38,7 @@
   //
 
   // Light Colors - PANTONE 427 U, PANTONE 11-0601 TCX
-  // ====================================================
+  // ===================================================
   // #C2C7CA
   // #C2C7CA33 25% Opacity
   // #C2C7CA24 14% Opacity
@@ -51,7 +51,7 @@
   //
 
   // Dark Colors - PANTONE 426 XGC
-  // ====================================================
+  // ===================================================
   // #2A2E32 +4 Lightness
   // #24282B
   // #1F2123 -2 Lightness -2 Saturation
@@ -60,7 +60,7 @@
   //
 
   // Purple Colors - PANTONE 16-3310 TPG
-  // ====================================================
+  // ===================================================
   // #AA9AA8 Lavender Herb
   //
   //
@@ -434,8 +434,8 @@
     "editorGroupHeader.tabsBackground": "#1F2123",
     "tab.activeForeground": "#c2c7ca",
     "tab.inactiveForeground": "#7E868A",
-    "tab.activeBackground": "#C2C7CA0A",
-    "tab.hoverBackground": "#C2C7CA0A",
+    "tab.activeBackground": "#24282B",
+    "tab.hoverBackground": "#24282B",
 
     // Status Bar
     "statusBarItem.remoteBackground": "#00000080",
@@ -469,19 +469,20 @@
     "button.foreground": "#f4f9ff",
     "activityBarBadge.background": "#AF5059",
     "activityBarBadge.foreground": "#f4f9ff",
-    "button.secondaryBackground": "#1F2123",
+    "button.secondaryBackground": "#C2C7CA17",
     "button.secondaryForeground": "#C2C7CA",
     "badge.background": "#AF5059",
     "badge.foreground": "#f4f9ff",
-    "inputOption.activeBackground": "#aebfc917",
+    "inputOption.activeBackground": "#C2C7CA17",
     "progressBar.background": "#B26C72",
     "merge.incomingHeaderBackground": "#B26C72",
 
     // Lists
     "dropdown.background": "#32353B",
+    "dropdown.border": "#C2C7CA17",
     "input.background": "#1F2123",
     "list.focusBackground": "#2D3139",
-    "list.hoverBackground": "#aebfc917",
+    "list.hoverBackground": "#C2C7CA17",
     "list.activeSelectionBackground": "#2B2F36",
     "list.highlightForeground": "#B26C72",
     "list.warningForeground": "#C4B969",
