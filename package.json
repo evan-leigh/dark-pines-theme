@@ -2,11 +2,11 @@
   "name": "dark-pines",
   "displayName": "Dark Pines",
   "description": "Dark theme based off Base 16 Ocean color scheme",
-  "version": "0.0.4",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.58.0"
   },
-  "icon": "pines.png",
+  "icon": "icon.png",
   "publisher": "evanl",
   "repository": {
     "type": "git",
@@ -17,14 +17,16 @@
   ],
   "keywords": [
     "space gray",
+    "saturated",
     "base16 ocean",
     "base16",
     "base 16",
     "darkpine",
-    "darkpine",
     "darkpines",
     "dark pines",
-    "pine"
+    "dark pine",
+    "pine",
+    "dark"
   ],
   "contributes": {
     "themes": [
