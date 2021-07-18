@@ -33,15 +33,13 @@
   "editor.renderLineHighlight": "none",
   "editor.occurrencesHighlight": false,
   "editor.folding": false,
-  "editor.overviewRulerBorder": false,
   "editor.fontFamily": "SF Mono",
   "editor.lineHeight": 28,
   "editor.lightbulb.enabled": false,
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.horizontal": "hidden",
   "editor.minimap.enabled": false,
-  "breadcrumbs.icons": false,
-  "breadcrumbs.symbolPath": "off"
+  "breadcrumbs.enabled": false
 }
 ```
 
