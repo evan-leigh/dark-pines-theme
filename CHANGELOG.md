@@ -1,9 +1,20 @@
 # Change Log
 
-All notable changes to the "eternity" extension will be documented in this file.
+## [0.0.1] - Jul 16, 2021
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Added Base Dark Pines theme
 
-## [Unreleased]
+## [0.0.4] - Jul 16, 2021
 
-- Initial release
+- included setting.json configurations to README
+- Changed preview image, and updated icon to use film filter
+- Made README more descriptive
+- Fixed tab bar not matching with editor background
+
+## [0.0.8] - Jul 16, 2021
+
+- Now using the change log file
+- Added full icon to README
+- Fixed JSON sytax highlighting
+- Added more code previews images to README
+- Redesigned extension icon
