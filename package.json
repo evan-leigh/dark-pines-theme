@@ -34,6 +34,11 @@
         "label": "Dark Pines",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-pines.json"
+      },
+      {
+        "label": "Dark Pines Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-pines-night.json"
       }
     ]
   }
