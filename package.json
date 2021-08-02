@@ -2,7 +2,7 @@
   "name": "dark-pines",
   "displayName": "Dark Pines",
   "description": "Dark theme based off Base 16 Ocean color scheme",
-  "version": "0.0.8",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.58.0"
   },
@@ -34,11 +34,6 @@
         "label": "Dark Pines",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-pines.json"
-      },
-      {
-        "label": "Dark Pines Night",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-pines-night.json"
       }
     ]
   }
