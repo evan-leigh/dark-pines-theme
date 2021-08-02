@@ -537,7 +537,22 @@
     "diffEditor.insertedTextBackground": "#A2BD8D1F",
     "diffEditor.removedTextBackground": "#B26C722E",
 
+    "tab.activeBorder": "#24282B",
+    "editorGroup.border": "#30353B",
+    "tab.unfocusedActiveBorder": "#24282B",
+    "tab.unfocusedActiveBorderTop": "#30353B",
+    "panel.border": "#30353B",
+    "activityBar.border": "#30353B",
+    "editorGroupHeader.tabsBorder": "#30353B",
+    "terminal.background": "#1F2123",
+    "tab.border": "#30353B",
+    "sideBar.border": "#30353B",
+    "editorGroupHeader.border": "#30353B",
+
     // Terminal
+    "titleBar.border": "#383D43CC",
+    "statusBar.border": "#383D43CC",
+    "panelTitle.activeBorder": "#B26C72",
     "terminal.ansiRed": "#B26C72",
     "terminal.ansiBrightRed": "#AF5059",
     "terminal.ansiCyan": "#98A1A9",
