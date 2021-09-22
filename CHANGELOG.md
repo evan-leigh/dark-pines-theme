@@ -18,3 +18,16 @@
 - Fixed JSON sytax highlighting
 - Added more code previews images to README
 - Redesigned extension icon
+
+## [l.4.0] - Sep 17, 2021
+
+- Updated a lot of scopes
+
+## [l.4.3] - Sep 17, 2021
+
+- Fixed button hover
+
+## [l.4.5] - Sep 17, 2021
+
+- Fixed extension button hover
+- Fixed welcomepage button hover
